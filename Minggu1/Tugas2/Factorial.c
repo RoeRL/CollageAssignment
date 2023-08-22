@@ -7,7 +7,6 @@
         
         printf("Masukkan Batas Loop: ");
         scanf("%d", &b);
-        
         for(a=1; a<=b; a++){
             bb = bb*a;
         }
