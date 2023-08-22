@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int num, t_hasil, count;
+    int num, t_num, t_hasil, count;
     char j = 'y';
     count = 1;
     t_hasil = 0;
@@ -8,17 +8,20 @@ int main(){
     
 
 
-    while (j=="y")
+    while (j=='y')
     {
         printf("Masukkan Bilangan Ke-%d: ", count);
-        scanf("%d", &num);
-
+        scanf("%d", &t_num);
+        
+        num = t_num;
+        
         count++;
 
-        printf("\nApakah mau memasukkan data lagi?[y/n]: ");
+        printf("Apakah mau memasukkan data lagi?[y/n]: ");
         scanf("%s", &j);
-
-        t_hasil = num+t_hasil;
+        
+        t_hasil = num + t_hasil;
+        
     }
 
     printf("Hasil: %d", t_hasil);
