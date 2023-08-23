@@ -24,6 +24,6 @@ int get_result(int number){
     
     printf("\n");
     index++;
-    if (index >= number) return 0;
+    if (index <= number) return 0;
     else return get_result(number);
 }
