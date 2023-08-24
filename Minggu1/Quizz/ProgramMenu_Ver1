@@ -1,0 +1,155 @@
+#include<stdio.h>
+
+int Calculator();
+int Luas_Segitiga();
+int Ganjil_Max();
+void Asterix();
+int main(){
+    int menu, num1, num2;
+
+    printf("Pilih Menu:\n1. Kalkulator\n2. Luas Segitiga\n3. Program Ganjil Max Array\n4. Nama Depan Switch Asterix\n");
+    scanf("%d", &menu);
+
+    switch (menu)
+    {
+    case 1:
+        Calculator();
+        break;
+    case 2:
+        Luas_Segitiga();
+        break;
+    case 3:
+        Ganjil_Max();
+        break;
+    case 4:
+        Asterix();
+        break;
+    
+    default:
+        break;
+    }
+}
+
+
+int Calculator(){
+    int menu, n1, n2;
+    float hasil;
+    double hasil_d;
+    
+
+    printf("Memilih Calculator\n");
+    printf("Input Angka Pertama: ");
+    scanf("%d", &n1);
+    
+    printf("Input Angka Kedua: ");
+    scanf("%d", &n2);
+    
+    printf("Pilih Menu:\n1. Penjumlahan\n2. Pengurangan\n3. Pembagian\n4. Perkalian\nPilihan: ");
+    scanf("%d", &menu);
+    
+    if (menu == 1){
+        hasil = n1 + n2;
+        printf("%.2f", hasil);
+    }
+    else if (menu == 2){
+        hasil = n1 - n2;
+        printf("%.2f", hasil);
+        
+    }
+    else if (menu == 3){
+        if (n1 == 0 || n2 == 0){
+            printf("Tak Terhingga atau 0");
+        }else{
+            hasil_d = (double)n1 / n2;
+            printf("%.2lf", hasil_d);   
+        }
+        
+    }
+    else if (menu == 4){
+        hasil = n1 * n2;
+        printf("%.2f", hasil);
+    }
+    else{
+        printf("Tidak ada opsi!");
+    }
+    
+    return 0;
+}
+
+int Luas_Segitiga(){
+    float hasil;
+    int alas, tinggi;
+
+    printf("Memilih Luas Segitiga\n");
+    printf("Input Alas: ");
+    scanf("%d", &alas);
+    printf("Input Tinggi: ");
+    scanf("%d", &tinggi);
+    
+    hasil = alas * tinggi / 2;
+    printf("Volume Kubus nya adalah: %.2f", hasil);
+
+    return 0;
+}
+
+int Ganjil_Max(){
+    int lenght, tempo, i, input, size = 0, x = 0;
+
+    printf("Masukkan jumlah array: ");
+    scanf("%d", &x);
+
+    int a[x];
+    
+    
+	
+	lenght = sizeof(a)/sizeof(*a);
+	
+	for (i = 0; i < lenght; i++){
+        printf("Input Nomor ke-[%d/%d]: ", i+1, lenght);
+  	    scanf("%d", &a[i]);
+	}
+
+    printf("Stored!\n");
+	
+	for (int i = 0; i < lenght; i++)
+    {
+        printf("array ke %d: %d\n", i+1, a[i]);
+    }
+    
+    printf("Angka Ganjil: ");
+    
+    for (int i = 0; i < lenght; i++)
+    {
+        if (a[i]%2 != 0) printf("%d ", a[i]);
+    }
+
+
+    for (int i = 0; i < lenght; i++) {     
+        for (int z = i+1; z < lenght; z++) {     
+           if(a[i] > a[z]) {    
+               tempo = a[i];    
+               a[i] = a[z];    
+               a[z] = tempo;    
+           }     
+        }     
+    }
+    
+    printf("Sorted Array Ganjil: ");
+    
+    for (int i = 0; i < lenght; i++)
+    {
+        
+        if (a[i]%2 != 0) printf("%d ", a[i]);
+        
+    }
+    
+    printf("\nAngka terbesar adalah: %d", tempo);
+    
+    
+}
+
+void Asterix(){
+    printf("*****\n*    *\n*****\n*    *\n*****");
+
+}
+
