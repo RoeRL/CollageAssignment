@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int N, hasil;
+    int N;
     
     printf("Masukkan nilai N: ");
     scanf("%d", &N);

@@ -11,7 +11,7 @@ void main(){
         printf("array ke %d: %c\n", i, huruf[i]);
     }
     
-    int lenght = sizeof(huruf)/sizeof(*huruf);
+    int lenght = sizeof(huruf);
     printf("%d\n", lenght);
  
 

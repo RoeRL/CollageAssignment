@@ -93,7 +93,8 @@ int Luas_Segitiga(){
 }
 
 int Ganjil_Max(){
-    int lenght, tempo, i, input, size = 0, x = 0;
+    int lenght, tempo, i, input, size = 0;
+    const int x = 1;
 
     printf("Masukkan jumlah array: ");
     scanf("%d", &x);

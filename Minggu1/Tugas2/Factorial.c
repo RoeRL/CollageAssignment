@@ -5,7 +5,7 @@
         int a, b, bb;
         bb = 1;
         
-        printf("Masukkan Batas Loop: ");
+        printf("Masukkan Angka Faktorial: ");
         scanf("%d", &b);
         for(a=1; a<=b; a++){
             bb = bb*a;
