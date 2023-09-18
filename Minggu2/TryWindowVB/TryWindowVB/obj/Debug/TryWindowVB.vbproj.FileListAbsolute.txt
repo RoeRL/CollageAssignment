@@ -1,0 +1,13 @@
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\bin\Debug\TryWindowVB.exe.config
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\bin\Debug\TryWindowVB.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\bin\Debug\TryWindowVB.pdb
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\bin\Debug\TryWindowVB.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.vbproj.AssemblyReference.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.vbproj.SuggestedBindingRedirects.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.Form1.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.Resources.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.vbproj.GenerateResource.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.vbproj.CoreCompileInputs.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\TryWindowVB\TryWindowVB\obj\Debug\TryWindowVB.pdb
