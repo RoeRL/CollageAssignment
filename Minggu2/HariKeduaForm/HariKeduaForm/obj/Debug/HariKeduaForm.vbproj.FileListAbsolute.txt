@@ -1,0 +1,13 @@
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\bin\Debug\HariKeduaForm.exe.config
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\bin\Debug\HariKeduaForm.exe
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\bin\Debug\HariKeduaForm.pdb
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\bin\Debug\HariKeduaForm.xml
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.vbproj.AssemblyReference.cache
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.vbproj.SuggestedBindingRedirects.cache
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.Form1.resources
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.Resources.resources
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.vbproj.GenerateResource.cache
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.vbproj.CoreCompileInputs.cache
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.exe
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.xml
+D:\Work\Project\Bot_JS\HariKeduaForm\HariKeduaForm\obj\Debug\HariKeduaForm.pdb
