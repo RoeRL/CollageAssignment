@@ -1,0 +1,13 @@
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\bin\Debug\QuizzMinggu2PMK.exe.config
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\bin\Debug\QuizzMinggu2PMK.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\bin\Debug\QuizzMinggu2PMK.pdb
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\bin\Debug\QuizzMinggu2PMK.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.vbproj.AssemblyReference.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.vbproj.SuggestedBindingRedirects.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.Form1.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.Resources.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.vbproj.GenerateResource.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.vbproj.CoreCompileInputs.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\QuizzMinggu2PMK\QuizzMinggu2PMK\obj\Debug\QuizzMinggu2PMK.pdb

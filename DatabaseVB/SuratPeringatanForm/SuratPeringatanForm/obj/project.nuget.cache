@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ju5tEPrJbcl+syX+ge6z0IdtvPpq+Fmk2z5KGsOYlRa6+fuDjRP0P6PAehCgA91PuFhTclxwDiPmXFfsqlz+TQ==",
+  "success": true,
+  "projectFilePath": "D:\\Collage\\Pemrogramman_Dasar\\CollageAssignment\\DatabaseVB\\SuratPeringatanForm\\SuratPeringatanForm\\SuratPeringatanForm.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bimo1\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\bimo1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bimo1\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

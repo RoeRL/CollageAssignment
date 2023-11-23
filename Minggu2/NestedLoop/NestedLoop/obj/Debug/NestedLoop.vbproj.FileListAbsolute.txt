@@ -1,0 +1,13 @@
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.vbproj.AssemblyReference.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.vbproj.SuggestedBindingRedirects.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Form1.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.Resources.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.vbproj.GenerateResource.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.vbproj.CoreCompileInputs.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe.config
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\bin\Debug\NestedLoop.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\bin\Debug\NestedLoop.pdb
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\bin\Debug\NestedLoop.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\NestedLoop\NestedLoop\obj\Debug\NestedLoop.pdb

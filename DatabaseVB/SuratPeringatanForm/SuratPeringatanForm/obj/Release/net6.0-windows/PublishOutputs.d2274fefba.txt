@@ -1,0 +1,12 @@
+D:\Work\WINDOWSFORMBUILD\Attemp4\SuratPeringatanForm.exe
+D:\Work\WINDOWSFORMBUILD\Attemp4\SuratPeringatanForm.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\SuratPeringatanForm.deps.json
+D:\Work\WINDOWSFORMBUILD\Attemp4\SuratPeringatanForm.runtimeconfig.json
+D:\Work\WINDOWSFORMBUILD\Attemp4\SuratPeringatanForm.pdb
+D:\Work\WINDOWSFORMBUILD\Attemp4\System.Data.Odbc.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\System.Text.Encoding.CodePages.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Work\WINDOWSFORMBUILD\Attemp4\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

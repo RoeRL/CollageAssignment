@@ -1,0 +1,12 @@
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\SuratPeringatanForm.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\SuratPeringatanForm.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\SuratPeringatanForm.deps.json
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\SuratPeringatanForm.runtimeconfig.json
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\SuratPeringatanForm.pdb
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\System.Data.Odbc.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\System.Text.Encoding.CodePages.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\DatabaseVB\SuratPeringatanForm\SuratPeringatanForm\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

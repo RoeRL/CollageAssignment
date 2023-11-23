@@ -1,0 +1,13 @@
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\bin\Debug\Hariketiga.exe.config
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\bin\Debug\Hariketiga.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\bin\Debug\Hariketiga.pdb
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\bin\Debug\Hariketiga.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.vbproj.AssemblyReference.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.vbproj.SuggestedBindingRedirects.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.Form1.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.Resources.resources
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.vbproj.GenerateResource.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.vbproj.CoreCompileInputs.cache
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.exe
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.xml
+D:\Collage\Pemrogramman_Dasar\CollageAssignment\Minggu2\Hariketiga\Hariketiga\obj\Debug\Hariketiga.pdb
