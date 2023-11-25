@@ -2,9 +2,6 @@
 Imports System.IO
 
 Public Class DetailMahasiswa
-    Public loginNama As String
-    Public loginNim As String
-    Public loginKelas As String
     Public adminNama As String
     Public adminNim As String
     Public adminKelas As String
@@ -13,12 +10,21 @@ Public Class DetailMahasiswa
         adminNama = AdminP.selectNameMhs
         adminNim = AdminP.selectNimMhs
         adminKelas = AdminP.selectKelasMhs
-        Label1.Text = loginNama
-        Label2.Text = LoginForm.selectNimMhs
-        Label3.Text = LoginForm.selectKelasMhs
 
 
-            da = New Odbc.OdbcDataAdapter($"SELECT COUNT(NIM) as 'JMLH' FROM mahasiswa WHERE KODE_SP = 'SPL' AND NIM = {LoginForm.selectNimMhs Or AdminP.selectNimMhs}", con)
+        If adminNama = "" Then
+            Label1.Text = uipertemuan.temporaryNama
+            Label2.Text = uipertemuan.temporaryNIM
+            Label3.Text = uipertemuan.temporaryKelas
+
+        ElseIf uipertemuan.temporaryNama = "" Then
+            Label1.Text = adminNama
+            Label2.Text = adminNim
+            Label3.Text = adminKelas
+        End If
+
+
+        da = New Odbc.OdbcDataAdapter($"SELECT COUNT(NIM) as 'JMLH' FROM mahasiswa_sp WHERE KODE_SP = 'SPL' AND NIM = {adminNim Or uipertemuan.temporaryNIM}", con)
         ds = New DataSet
         ds.Clear()
         da.Fill(ds, "`mahasiswa`")
@@ -39,7 +45,7 @@ Public Class DetailMahasiswa
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        da = New Odbc.OdbcDataAdapter($"INSERT INTO `pertemuan` (`NIM`, `TANGGAL`) VALUES ('{adminNim Or loginNim}', '{DateTimePicker1.Text}')", con)
+        da = New Odbc.OdbcDataAdapter($"INSERT INTO `pertemuan` (`NIM`, `TANGGAL_PERTEMUAN`) VALUES ('{adminNim}', '{DateTimePicker1.Text}')", con)
         ds = New DataSet
         ds.Clear()
         da.Fill(ds, "`mahasiswa`")

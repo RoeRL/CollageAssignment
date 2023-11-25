@@ -2,15 +2,13 @@
 
     Private Sub mahasiswa2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.CenterToScreen()
-
-        Konek()
-        da = New Odbc.OdbcDataAdapter($"select NIM, NAMA, KELAS, ALASAN from `mahasiswa` where KODE_SP = 'SPL' AND NIM = '{LoginForm.TextBox2.Text}'", con)
+        da = New Odbc.OdbcDataAdapter($"select NIM, NAMA, KELAS, TANGGAL_SP, PELAPOR from `mahasiswa_sp` where KODE_SP = 'SPL' AND NIM = '{mahasiswa.loginNim}'", con)
         ds = New DataSet
         ds.Clear()
         da.Fill(ds, "`mahasiswa`")
         DataGridView1.DataSource = (ds.Tables("`mahasiswa`"))
 
-        da = New Odbc.OdbcDataAdapter($"select NIM, NAMA, KELAS, ALASAN from `mahasiswa` where KODE_SP = 'SPT' AND NIM = '{LoginForm.TextBox2.Text}'", con)
+        da = New Odbc.OdbcDataAdapter($"select NIM, NAMA, KELAS, TANGGAL_SP, PELAPOR from `mahasiswa_sp` where KODE_SP = 'SPT' AND NIM = '{mahasiswa.loginNim}'", con)
         ds = New DataSet
         ds.Clear()
         da.Fill(ds, "`mahasiswa`")

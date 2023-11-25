@@ -13,23 +13,12 @@ Public Class mahasiswa
         loginNama = LoginForm.selectNameMhs
         loginNim = LoginForm.selectNimMhs
         loginKelas = LoginForm.selectKelasMhs
-        adminNama = AdminP.selectNameMhs
-        adminNim = AdminP.selectNimMhs
-        adminKelas = AdminP.selectKelasMhs
-
-        If adminNama = "" Then
-            Label4.Text = loginNama
-            Label5.Text = LoginForm.selectNimMhs
-            Label6.Text = LoginForm.selectKelasMhs
-
-        ElseIf loginNama = "" Then
-            Label4.Text = adminNama
-            Label5.Text = adminNim
-            Label6.Text = adminKelas
-        End If
+        Label4.Text = loginNama
+        Label5.Text = LoginForm.selectNimMhs
+        Label6.Text = LoginForm.selectKelasMhs
 
 
-        da = New Odbc.OdbcDataAdapter($"SELECT COUNT(NIM) as 'JMLH' FROM mahasiswa WHERE KODE_SP = 'SPL' AND NIM = {LoginForm.selectNimMhs Or AdminP.selectNimMhs}", con)
+        da = New Odbc.OdbcDataAdapter($"SELECT COUNT(NIM) as 'JMLH' FROM mahasiswa_sp WHERE KODE_SP = 'SPL' AND NIM = {LoginForm.selectNimMhs}", con)
         ds = New DataSet
         ds.Clear()
         da.Fill(ds, "`mahasiswa`")
