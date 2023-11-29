@@ -30,6 +30,7 @@ Partial Class LoginForm
         PictureBox1 = New PictureBox()
         Label4 = New Label()
         ErrorProvider1 = New ErrorProvider(components)
+        TextBox1 = New TextBox()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(ErrorProvider1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
@@ -86,12 +87,21 @@ Partial Class LoginForm
         ' 
         ErrorProvider1.ContainerControl = Me
         ' 
+        ' TextBox1
+        ' 
+        TextBox1.Location = New Point(645, 363)
+        TextBox1.Name = "TextBox1"
+        TextBox1.PasswordChar = "*"c
+        TextBox1.Size = New Size(268, 29)
+        TextBox1.TabIndex = 9
+        ' 
         ' LoginForm
         ' 
         AutoScaleDimensions = New SizeF(9F, 21F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = SystemColors.ActiveCaption
         ClientSize = New Size(1092, 752)
+        Controls.Add(TextBox1)
         Controls.Add(Button1)
         Controls.Add(TextBox2)
         Controls.Add(Label3)
@@ -114,4 +124,5 @@ Partial Class LoginForm
     Friend WithEvents Button1 As Button
     Friend WithEvents Label4 As Label
     Friend WithEvents ErrorProvider1 As ErrorProvider
+    Friend WithEvents TextBox1 As TextBox
 End Class
